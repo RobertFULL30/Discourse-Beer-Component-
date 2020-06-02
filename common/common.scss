@@ -29,10 +29,16 @@ nav.post-controls .double-button button.my-likes .d-icon {
 
 
 
-nav.post-controls .double-button button.has-like .d-icon {
+
+
+
+nav.post-controls .actions .double-button button.has-like .d-icon .double-button button.my-likes {
     color: #FFC300;
 }
 
+nav.post-controls .actions .double-button button.my-likes .d-icon {
+    color: #FFC300;
+}
 
 .directory table th.sortable .d-icon-heart {
     color: #FFC300;
